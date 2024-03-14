@@ -1,6 +1,6 @@
 | | |
 |---|---|
-| ### Hi there 👋 <br> I am studying Cross-platform App Development and completing the FCTs at Optiva Media, a company focused on the development of Android TV. <br> ### Hola! <br> Estoy estudiando Desarrollo de Aplicaciones Multiplataforma y realizando las FCTs en Optiva Media, empresa centrada en el desarrollo de Android TV. | <a href="https://www.linkedin.com/in/davidroldanoteo/"><img src="logo_linkedin.png" alt="My Linkdn profile" width="100px" style="border-radius:50%;"></a> |
+| <strong>Hi there 👋</strong> <br> I am studying Cross-platform App Development and completing the FCTs at Optiva Media, a company focused on the development of Android TV. <br> <strong>Hola!</strong> <br> Estoy estudiando Desarrollo de Aplicaciones Multiplataforma y realizando las FCTs en Optiva Media, empresa centrada en el desarrollo de Android TV. | <a href="https://www.linkedin.com/in/davidroldanoteo/"><img src="logo_linkedin.png" alt="My Linkdn profile" width="100px" style="border-radius:50%;"></a> |
 
 
 <p float="left">
