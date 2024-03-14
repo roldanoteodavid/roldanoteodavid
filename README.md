@@ -4,10 +4,13 @@ I am studying Cross-platform App Development and completing the FCTs at Optiva M
 ### Hola!
 Estoy estudiando Desarrollo de Aplicaciones Multiplataforma y realizando las FCTs en Optiva Media, empresa centrada en el desarrollo de Android TV.
 
-<a href="https://www.linkedin.com/in/davidroldanoteo/" style="float:right;">
-  <img src="logo_linkedin.png" alt="My Linkdn profile" width="100px" style="border-radius:50%;">
-</a>
-
+<div style="display:flex; align-items:center;">
+  <div style="flex:1;">
+    <a href="https://www.linkedin.com/in/davidroldanoteo/">
+      <img src="logo_linkedin.png" alt="My Linkdn profile" width="100px" style="border-radius:50%;">
+    </a>
+  </div>
+</div>
 <!--
 **roldanoteodavid/roldanoteodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
