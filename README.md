@@ -2,6 +2,8 @@
 |---|---|
 | <strong>Hi there 👋</strong> <br> I am studying Cross-platform App Development and completing the FCTs at Optiva Media, a company focused on the development of Android TV. <br><br> <strong>Hola!</strong> <br> Estoy estudiando Desarrollo de Aplicaciones Multiplataforma y realizando las FCTs en Optiva Media, empresa centrada en el desarrollo de Android TV. | <a href="https://www.linkedin.com/in/davidroldanoteo/"><img src="logo_linkedin.png" alt="My Linkdn profile" width="100px" style="border-radius:50%;"></a> |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roldanoteodavid)](https://github.com/roldanoteodavid)
+
 <!--
 **roldanoteodavid/roldanoteodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
