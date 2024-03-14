@@ -1,6 +1,10 @@
 ### Hi there 👋
+I am studying Cross-platform App Development and completing the FCTs at Optiva Media, a company focused on the development of Android TV.
 
 ### Hola!
+Estoy estudiando Desarrollo de Aplicaciones Multiplataforma y realizando las FCTs en Optiva Media, empresa centrada en el desarrollo de Android TV.
+
+
 
 <!--
 **roldanoteodavid/roldanoteodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
