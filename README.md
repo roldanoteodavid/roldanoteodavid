@@ -1,20 +1,23 @@
-| | |
-|---|---|
-| <strong>Hi there 👋</strong> <br> I am studying Cross-platform App Development and completing the FCTs at Optiva Media, a company focused on the development of Android TV. <br><br> <strong>Hola!</strong> <br> Estoy estudiando Desarrollo de Aplicaciones Multiplataforma y realizando las FCTs en Optiva Media, empresa centrada en el desarrollo de Android TV. | <a href="https://www.linkedin.com/in/davidroldanoteo/"><img src="logo_linkedin.png" alt="My Linkdn profile" width="100px" style="border-radius:50%;"></a> |
+### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roldanoteodavid)](https://github.com/roldanoteodavid)
+I'm a **Kotlin Software Developer** based in Madrid.
 
-<!--
-**roldanoteodavid/roldanoteodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at **Telefónica** on secure communication apps (Mobile & Desktop).
+- 💻 My main stack is **Kotlin** and **Android Development**.
+- 📺 Previously experienced in **Android TV** and video playback features.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ¡Hola!
+
+Soy **Desarrollador de Software especializado en Kotlin**.
+
+- 🔭 Actualmente trabajo en **Telefónica** en aplicaciones de comunicación segura.
+- 💻 Mi especialidad es **Kotlin** y el ecosistema **Android**.
+- 📺 Experiencia previa en **Android TV** y reproducción de vídeo.
+
+<div align="left">
+<a href="https://www.linkedin.com/in/davidroldanoteo/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</div>
